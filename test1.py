@@ -4,7 +4,7 @@ import time # 用來暫停程式
 
 
 # 要爬的股票
-stock = ["2337"]
+stock = ["2337","2357","2383"]
 
 for i in range(len(stock)): # 迴圈依序爬股價
 
